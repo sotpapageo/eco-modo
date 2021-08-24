@@ -58,7 +58,7 @@ featured_image: '/images/demo/meletes.jpg'
 Πελάτες της ECO MODO είναι ιδιώτες καθώς και επιχειρήσεις κάθε είδους ( βιομηχανικές, εμπορικές, τουριστικές, παροχής υπηρεσιών, τεχνικές και κατασκευαστικές οικοδομικών έργων, επαγγελματίες ) καθώς και τεχνικά γραφεία Αρχιτεκτόνων και Πολιτικών Μηχανικών.
 
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+<!---You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
@@ -108,11 +108,11 @@ Change the number inside the 'columns' setting to create different types of gall
 
 ---
 
-### Image carousels
+[//]: ### Image carousels
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+[//]: Here's another gallery with only one column, which creates a carousel slide-show instead.
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+[//]: A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
@@ -126,7 +126,7 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 <iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
-
+-->
 ## Pretty cool, huh?
 
 We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?

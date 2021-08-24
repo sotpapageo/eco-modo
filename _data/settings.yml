@@ -25,13 +25,13 @@ grid_settings:
   grid_spacing: 20
 
 contact_settings:
-  form_action: ''
+  form_action: 'mailto:sotpapageo@gmail.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'http://facebook.com/ECO-MODO-Energy-287540967924409'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
