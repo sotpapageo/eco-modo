@@ -56,7 +56,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'http://linkedin.com/company/eco-modo-energy/?viewAsMember=true'
 
 color_settings:
   background_color: '#ffffff'
