@@ -20,7 +20,7 @@ H ECO MODO δραστηριοποιείται στον χώρο των φωτο�
 
 
 
-
+<!--
 
 
 
@@ -58,29 +58,33 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 
 Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
----
+--->
 
-### Image carousels
+### Εικόνες από τα έργα μας
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+
+ 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/demo/PHV1.jpg">
+	<img src="/images/demo/PHV2.jpg">
+	<img src="/images/demo/PHV3.jpg">
+	<img src="/images/demo/PHV4.jpg">
 </div>
 
-### What about videos?
+  
+ [//]:# ### What about videos?
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+ [//]:#Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://youtube.com/watch?v=qmrHSnaXsz0?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox="allow-top-navigation allow-scripts allow-forms" ></iframe>
+ [//]:# <iframe src="https://youtube.com/watch?v=qmrHSnaXsz0?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox="allow-top-navigation allow-scripts allow-forms" ></iframe>
 
 ---
 
-## Pretty cool, huh?
+ [//]:# ## Pretty cool, huh?
 
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
+ [//]:# We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+ [//]:# <a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+
