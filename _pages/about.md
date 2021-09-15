@@ -26,8 +26,9 @@ featured_image: /images/demo/demo-landscape.jpg
 * Άδειες Ίδρυσης & Εγκατάστασης Επιχειρήσεων
 * Φάκελοι για ΔΕΗ
 
-## Get Index
+<!-- ## Get Index
 
 δωφβδφγξνφκμφυ,κηυ,ηξ,μξφμ,φφξ,μφγμ,γφξμφξμ,φξγ
 
 <a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+--->

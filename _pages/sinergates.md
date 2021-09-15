@@ -1,9 +1,9 @@
 ---
-title: 'Προφίλ Εταιρίας'
+title: 'Συνεργάτες'
 subtitle: 'Η ECO MODO δραστηριοποιείται στο χώρο των ηλεκτρομηχανολογικών έργων.Η μεγάλη εμπειρία που διαθέτουμε στο χώρο των ηλεκτροβιομηχανικών εφαρμογών
 και των αυτοματισμών μας δίνει την δυνατότητα να προσφέρουμε υπεύθυνα λύσεις ποιότητας'
 
-featured_image: /images/demo/demo-landscape.jpg
+[//]: #featured_image: /images/demo/demo-landscape.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
