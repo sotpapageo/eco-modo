@@ -74,25 +74,6 @@ Change the number inside the 'columns' setting to create different types of gall
 </div>
 
   
- [//]:# ### What about videos?
-
- [//]:#Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
- [//]:# <iframe src="https://youtube.com/watch?v=qmrHSnaXsz0?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox="allow-top-navigation allow-scripts allow-forms" ></iframe>
-
- {% youtube tnq2gwBhvCc %}
----
-
- [//]:# ## Pretty cool, huh?
-
- [//]:# We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
-
- [//]:# <a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+ 
 
 
-<iframe width="560"
-        height="315"
-        src="https://www.youtube.com/embed/QH2-TGUlwu4"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen></iframe>
