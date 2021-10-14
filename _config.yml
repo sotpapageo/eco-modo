@@ -13,6 +13,12 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  products:
+    output: true
+    permalink: /products/:slug
+  subcategories:
+    output: true
+    permalink: /subcategories/:slug
 
 defaults:
   -
@@ -38,6 +44,20 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+
+  -
+    scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
+
+  -
+    scope:
+      path: ""
+      type: "subcategories"
+    values:
+      layout: "subcategory"
 
 markdown: kramdown
 

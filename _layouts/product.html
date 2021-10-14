@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div class="product">
+ <div class="product__information">
+    <h2 class="product__title">{{ product.name }}</h2>
+    <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
+ </div>
+</div>

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<section>
+oeo
+      {% for product in site.products  %}
+
+      <div >
+
+       
+        {% if product.subcategory == page.subcategory %}
+
+        <h2 >{{product.name }}</h2>
+      
+        <div class="portfolio-item__image">
+          <img src="{{ product.image | relative_url }}" alt="{{ product.name }}">
+        </div>
+
+
+        {%endif%}
+
+ 
+      </div>
+
+      {% endfor %}
+
+</section>
