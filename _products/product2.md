@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-starry-night-2
-name: Starry Night 2
+title: Starry Night 2
 image: /images/demo/photovoltaika.jpg2
 subcategory: printing-inkjet
 category:

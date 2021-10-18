@@ -2,8 +2,31 @@
 layout: default
 ---
 
+
+<section class="intro">
+
+  <div class="wrap">
+
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.subtitle }}</p>
+
+  </div>
+
+</section>
+
+<section class="single">
+
+  <div class="wrap">
+
+    {{ page.content }}
+
+  </div>
+
+</section>
+
+
 <section>
-oeo
+
       {% for product in site.products  %}
 
       <div >
@@ -11,10 +34,13 @@ oeo
        
         {% if product.subcategory == page.subcategory %}
 
-        <h2 >{{product.name }}</h2>
+        <h2 >{{product.title }}</h2>
       
         <div class="portfolio-item__image">
+          <a class="portfolio-item__link" href="{{product.url}}">
           <img src="{{ product.image | relative_url }}" alt="{{ product.name }}">
+        </a>
+          <p>{{product.short-description}}</p>
         </div>
 
 

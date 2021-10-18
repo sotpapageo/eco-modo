@@ -15,7 +15,7 @@ collections:
     permalink: /project/:slug
   products:
     output: true
-    permalink: /products/:slug
+    permalink: /product/:name
   subcategories:
     output: true
     permalink: /subcategories/:slug
