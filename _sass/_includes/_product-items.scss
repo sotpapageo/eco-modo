@@ -1,0 +1,75 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Product List
+
+// - - - - - - - - - - - - - - - - - -
+
+.product-list {
+	margin-top: 0;
+	padding: $grid-spacing/2;
+}
+
+.product-list-wrap {
+	display: flex;
+	gap: 10px 20px;
+	
+}
+
+.product-list-item {
+	flex: 0 1 auto;
+	position: relative;
+	padding: $grid-spacing/2;
+	float: left;
+	width: 33%;
+}
+
+.product-list-item__link {
+	position: relative;
+	display: block;
+
+	@include mq(tabletl) {
+
+		&:hover {
+
+			.product-list-item__content {
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+	}
+}
+
+
+
+.product-list-item__content {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba($overlay-background-color, $overlay-opacity);
+
+	opacity: 0;
+	visibility: hidden;
+	@include transition(all 0.2s ease-in-out);
+}
+
+
+
+.product-list-item__title {
+	color: $overlay-text-color;
+	font-size: $grid-item-title-small;
+	font-weight: $grid-item-title-weight;
+	letter-spacing: $grid-item-title-spacing;
+
+	@include mq(tabletp) {
+		font-size: $grid-item-title-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $grid-item-title-large;
+	}
+}

@@ -14,40 +14,39 @@ layout: default
 
 </section>
 
-<section class="single">
+<section class="product-list">
 
-  <div class="wrap">
-
-    {{ page.content }}
-
-  </div>
-
-</section>
-
-
-<section>
+  <div class="content-wrap product-list-wrap">
 
       {% for product in site.products  %}
 
-      <div >
 
-       
         {% if product.subcategory == page.subcategory %}
 
-        <h2 >{{product.title }}</h2>
-      
-        <div class="portfolio-item__image">
-          <a class="portfolio-item__link" href="{{product.url}}">
-          <img src="{{ product.image | relative_url }}" alt="{{ product.name }}">
-        </a>
-          <p>{{product.short-description}}</p>
-        </div>
+            <div class="card product-list-item">
 
+            <a href="{{product.url}}" class="product-list-item__link" >
+
+              <img src="{{ product.image | relative_url }}"  alt="{{ product.name }}">
+
+                <div class="card-body">
+                  <h5 class="card-title">{{product.title }}</h5>
+                  <p >{{product.short-description}}</p>
+                </div>
+
+                <div class="product-list-item__content">
+                  <div class="product-list-item__info">
+                    <h6 class="product-list-item__title">{{ product.title }}</h6>
+                  </div>
+              </div>
+
+            </a>
+
+            </div>
 
         {%endif%}
 
- 
-      </div>
+
 
       {% endfor %}
 
