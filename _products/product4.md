@@ -1,20 +1,19 @@
 ---
 identifier: jekyll-starry-night-3
-title: LEIBINGER JET3up MI micro printer
-image: /images/demo/kiokpa/inkjet/JET3mi.jpg
+title: LEIBINGER JET3up PRO inkjet printer
+image: /images/demo/kiokpa/inkjet/JET3pro.jpg
 subcategory: printing-inkjet
 category:
-short-description: Εκτυπωτής ink-jetprinter  για την εκτύπωση πολύ μικρών χαρακτήρων και λογοτύπων μέχρι και 0,7mm με το ειδικό ακροφύσιο.
+short-description: Εκτυπωτής ink-jetprinter  με προστασία IP65 για περιβάλλον με υγρασία και σκόνη. 
 ---
 
 
 
 
-
-Εκτυπωτής ink-jetprinter  για την εκτύπωση πολύ μικρών χαρακτήρων και λογοτύπων μέχρι και 0,7mm με το ειδικό ακροφύσιο.
-Ο εκτυπωτής είναι επίσης ιδανικός για εκτύπωση πολλών δεδομένων σε μικρό περιθώριο.
+Εκτυπωτής ink-jetprinter  με προστασία IP65 για περιβάλλον με υγρασία και σκόνη. Ειδικός για κωδικοποίηση προιόντων σε εξαιρετικά ιδιαίτερο και δύσκολο περιβάλλον παραγωγής . Ειδικό για κλάδους τροφίμων και ποτών. 
 
 Τεχνικά Χαρακτηριστικά
+
    * The automated “Sealtronic“ nozzle seal ensures that ink does not dry out, even during lengthy breaks in production
    * Windows-based touchscreen display for convenient operation
    * Interfaces such as Ethernet and I/O signals make integration into a production machine easy
@@ -28,4 +27,7 @@ short-description: Εκτυπωτής ink-jetprinter  για την εκτύπω
    * Easy integration thanks to a wide variety of interfaces
 
 
-    
+
+
+
+

@@ -16,6 +16,9 @@ collections:
   products:
     output: true
     permalink: /product/:name
+  categories:
+    output: true
+    permalink: /categories/:slug
   subcategories:
     output: true
     permalink: /subcategories/:slug
@@ -51,7 +54,12 @@ defaults:
       type: "products"
     values:
       layout: "product"
-
+  -
+    scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
   -
     scope:
       path: ""
