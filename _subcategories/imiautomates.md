@@ -1,11 +1,16 @@
 ---
-identifier: Altech
-name: Imiautomates
-image: /images/demo/kiokpa/altech/Altech_ALline_E.jpg
-subcategory: Altech
+identifier: industrial-scales-systems
+name: Ημιαυτόματες
+image: /images/demo/kiokpa/imiautomates/dwr_round.jpg
+subcategory: imiautomates
 category: etiketezes
 ---
 
 
 
-Hello mlk 2
+
+
+
+Ημιαυτόματες ετικετέζες
+
+Επικόλληση ετικέτας σε διάφορες επιφάνειες για μικρές παραγωγές. Συμπληρωματικά μπορεί να ενσωματωθεί εκτυπωτής για την σήμανση – κωδικοποίηση των προϊόντων σας. Όσο μικρή και να είναι η παραγωγή σας, τώρα μπορείτε τώρα εύκολα και οικονομικά να απλοποιήσετε την διαδικασία ετικεταρίσματος!

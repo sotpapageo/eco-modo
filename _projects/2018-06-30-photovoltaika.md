@@ -78,7 +78,7 @@ Change the number inside the 'columns' setting to create different types of gall
 
  [//]:#Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
- [//]:# <iframe src="https://youtube.com/watch?v=qmrHSnaXsz0?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox="allow-top-navigation allow-scripts allow-forms" ></iframe>
+ [//]:# <iframe src="https://www.youtube.com/watch?v=L_q6LRgKpTw" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox="allow-top-navigation allow-scripts allow-forms" ></iframe>
 
  {% youtube tnq2gwBhvCc %}
 ---
@@ -92,7 +92,7 @@ Change the number inside the 'columns' setting to create different types of gall
 
 <iframe width="560"
         height="315"
-        src="https://www.youtube.com/embed/QH2-TGUlwu4"
+        src="https://www.youtube.com/watch?v=L_q6LRgKpTw"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>

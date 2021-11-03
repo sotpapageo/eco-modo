@@ -1,0 +1,22 @@
+<section class="product-list">
+
+  <div class=" product-list-wrap">
+
+      {% for partner in site.partners  %}
+
+
+            <div class="card product-list-item">
+
+            <a href="{{partner.url}}" class="product-list-item__link" >
+
+              <img src="{{ partner.image | relative_url }}"  alt="{{ partner.name }}">
+
+                <div class="card-body">
+                  <h5 class="card-title">{{partner.name }}</h5>
+                </div>
+            </a>
+          </div>
+      {% endfor %}
+    </div>
+
+</section>

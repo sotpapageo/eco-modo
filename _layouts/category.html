@@ -7,7 +7,7 @@ layout: default
 
   <div class="wrap">
 
-    <h1>{{ page.title }}</h1>
+    <h1>{{ page.name }}</h1>
     <p>{{ page.subtitle }}</p>
 
   </div>
@@ -30,13 +30,13 @@ layout: default
               <img src="{{ subcategory.image | relative_url }}"  alt="{{ subcategory.name }}">
 
                 <div class="card-body">
-                  <h5 class="card-title">{{subcategory.title }}</h5>
+                  <h5 class="card-title">{{subcategory.name }}</h5>
                   <p >{{subcategory.short-description}}</p>
                 </div>
 
                 <div class="product-list-item__content">
                   <div class="product-list-item__info">
-                    <h6 class="product-list-item__title">{{ subcategory.title }}</h6>
+                    <h6 class="product-list-item__title">{{ subcategory.name }}</h6>
                   </div>
               </div>
 
