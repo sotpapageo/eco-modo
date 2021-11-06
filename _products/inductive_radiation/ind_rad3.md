@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/inductive_radiation/Sigma-2-neo.jpg
 subcategory: inductive_radiation
 category: industrial-automation
 short-description: Φορητό και εύκολο στην χρήση μηχάνημα επαγωγικής ακτινοβολίας ιδανικό για μικρές παραγωγές. 
+manufactor-logo: /images/demo/kiokpa/inductive_radiation/sigmacapseal.jpg
+manual-link:  http://inductioncapsealing.com/pdf-downloads/NEO%20II.pdf
+video-link:   
 ---
 
 

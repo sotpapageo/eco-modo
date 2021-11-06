@@ -5,7 +5,9 @@ image: /images/demo/kiokpa/imiautomates/Drorys.jpg
 subcategory: imiautomates
 category: etiketezes
 short-description: Επικόλληση ετικέτας σε μπουκάλια και κυλινδρικά προιόντα με σένσορ.
-
+manufactor-logo: /images/demo/kiokpa/imiautomates/drorys.png
+manual-link:  
+video-link: 
 ---
 
 

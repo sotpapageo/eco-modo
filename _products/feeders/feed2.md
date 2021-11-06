@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/feeders/WR_Feeder_particolare_WideRange.jpg
 subcategory: feeders
 category: industrial-automation
 short-description: Ο WR FEEDER είναι τροφοδότης τριβής για φύλλα, κάρτες, θήκες και κουπόνια μέχρι το μέγιστο μέγεθος 400 × 300 mm στην έκδοση 400.
+manufactor-logo: /images/demo/kiokpa/feeders/widerange.jpg
+manual-link: http://www.widerange.it/wp-content/uploads/2018/02/WideRange_WR_FEEDER_IT.pdf
+video-link: https://youtu.be/fxCbGMe-izE
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/inkjet/JET3pro.jpg
 subcategory: printing-inkjet
 category:
 short-description: Εκτυπωτής ink-jetprinter  με προστασία IP65 για περιβάλλον με υγρασία και σκόνη. 
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  http://leibinger-group.com/fileadmin/user_upload/de/PDF/Info_TechDetails/JET3up_PRO/JET3up_PRO_EN.pdf
+video-link: https://youtu.be/ZZAsV0rzkzY
 ---
 
 

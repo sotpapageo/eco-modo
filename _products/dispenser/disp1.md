@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/dispenser/ea_dwr.jpg
 subcategory: dispenser
 category: industrial-automation
 short-description: Dispenser για αυτοκόλλητες ετικέτες σε ρολά.
+manufactor-logo: /images/demo/kiokpa/dispenser/widerange.jpg
+manual-link: https://www.widerange.it/depliant_pdf/DWR_DISPENSER_ENG.pdf
+video-link: https://youtu.be/p4do0CYprAA
 ---
 
 

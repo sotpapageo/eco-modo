@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/altech/Altech_ALline_Special_Special_labelling_soluti
 subcategory: sistimata_etiketas
 category: 
 short-description: Ειδικά συστήματα ετικεταρίσματος (custom made) που μπορούν να διαμορφωθούν ανάλογα με τις απαιτήσεις σας.
+manufactor-logo: /images/demo/kiokpa/altech/altech.jpg
+manual-link: http://en.altech.it/ImagePub.aspx?id=243361
+video-link: https://youtu.be/MGZ1gu62mOg
 ---
 
 

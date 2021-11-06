@@ -5,7 +5,9 @@ name: Κλειστικά Χαρτοκιβωτίων
 image: /images/demo/kiokpa/klistika_xartok/klistika1.png
 subcategory: klistika_xartokibotion
 category: industrial-automation
-short-description: Ημιαυτόματη μηχανή περιτύλιξης παλετών με ταινία stretch για σταθεροποίηση και ασφάλιση παλετοποιημένων φορτίων.
+short-description: Ημιαυτόματο κλειστικό χαρτοκιβωτίων
+manual-link:  http://www.elenamarchetti.com/files_PDF/GOLDTAPE._Depliant.pdf
+video-link: https://youtu.be/98CJ3l6wyu0
 ---
 
 
@@ -26,4 +28,3 @@ short-description: Ημιαυτόματη μηχανή περιτύλιξης π
 *    Lap (H1): 45 mm
 *    Box width (W): 85 mm
 *    Weight: 5,70 Kg
-

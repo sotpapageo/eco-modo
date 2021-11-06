@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/thermal_printer/Coditherm_H-Pad.jpg
 subcategory: thermalprint
 category: printers
 short-description: Εκτύπωση θερμικής μεταφοράς σε προϊόντα με εσοχές στην περιοχή εκτύπωσης.
+manufactor-logo: /images/demo/kiokpa/thermal_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/printess-technicalfeatures-en.pdf
+video-link: https://youtu.be/za5sl4fbwYA
 ---
 
 

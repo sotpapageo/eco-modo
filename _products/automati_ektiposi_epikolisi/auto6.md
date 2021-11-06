@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/Altech_ALcode.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα εκτύπωσης και επικόλλησης ετικέτας με θερμικό εκτυπωτή SATO  για ανάλυση εκτύπωσης
+manufactor-logo: /images/demo/kiokpa/auto_printer/altech.jpg
+manual-link: http://en.altech.it/ImagePub.aspx?id=255312
+video-link: https://youtu.be/cJ1_TaZk_Sc
 ---
 
 

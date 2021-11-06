@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/anatilliktires/wide_PWR.jpg
 subcategory: anatiliktires
 category: industrial-automation
 short-description: Συνδέεται με όλους τους εκτυπωτές ετικετών και ξανατυλίγει σε ρολό τις τυπωμένες ετικέτες που προέρχονται από τον εκτυπωτή..
+manufactor-logo: /images/demo/kiokpa/anatilliktires/widerange.jpg
+manual-link: https://www.widerange.it/depliant_pdf/SERIE_RWR_ENG.pdf
+video-link: https://youtu.be/uAKLzsHCVp4
 ---
 
 

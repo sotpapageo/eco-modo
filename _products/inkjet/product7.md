@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/inkjet/Leibinger_JET_One.jpg
 subcategory: printing-inkjet
 category:
 short-description: Ο entry level εκτυπωτής inkjet της LEIBINGER. Κορυφαία ποιότητα σε χαμηλή τιμή. 
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  
+video-link: https://youtu.be/ZZAsV0rzkzY
 ---
 
 

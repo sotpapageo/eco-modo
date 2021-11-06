@@ -1,11 +1,14 @@
 ---
 identifier: klistika_xartokibotion
-title: Εlena Μarchetti GOLDTAPE
+title: Εlena Μarchetti GOLDTAPE 56 RF
 name: Κλειστικά Χαρτοκιβωτίων 
-image: /images/demo/kiokpa/klistika_xartok/klistika1.png
+image: /images/demo/kiokpa/klistika_xartok/goldtape 56RF.png
 subcategory: klistika_xartokibotion
 category: industrial-automation
-short-description: Ημιαυτόματη μηχανή περιτύλιξης παλετών με ταινία stretch για σταθεροποίηση και ασφάλιση παλετοποιημένων φορτίων.
+short-description: Ημιαυτόματο κλειστικό χαρτοκιβωτίων
+manufactor-logo: /images/demo/kiokpa/klistika_xartok/elena.jpg
+manual-link:  https://en.elenamarchetti.it/files_PDF/GOLDTAPE_56_RF_Depliant.pdf
+video-link: 
 ---
 
 
@@ -13,17 +16,22 @@ short-description: Ημιαυτόματη μηχανή περιτύλιξης π
 
 ΑΥΤΟΚΟΛΛΗΤΗ ΤΑΙΝΙΑ
 
-Χειροκίνητη
 
-Χειροκίνητη προσαρμογή διαστάσεων
+Αυτόματη
+
+Αυτόματη προσαρμογή διαστάσεων για διαφορετικές διαστάσεις χαρτοκιβωτίων (με flap closer)
+
+
 
 Τεχνικά Χαρακτηριστικά
 ---
 
-*    Tape width: 50 mm (2″ inch)
-*    Max diameter: 355 mm
-*    Box (H): 100 mm
-*    Lap (H1): 45 mm
-*    Box width (W): 85 mm
-*    Weight: 5,70 Kg
+
+*    Electrical power supply: 3-phase, 400V/50Hz
+*    Air consumption: 40 nl. per production cycle at 6 bar
+*    Installed power: 0.27 kW
+*    Electrical protection level : IP 55
+*    Service temperature: From +5°C to +35°C
+*    Productivity: 400/420 boxes/h
+*    Box transfer speed : 27 mt/min.
 

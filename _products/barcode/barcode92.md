@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/barcode/NOVEXX 64-0x.jpg
 subcategory: barcode
 category: printers
 short-description: Οι υψηλής απόδοσης, ανθεκτικοί επιτραπέζιοι εκτυπωτές της σειράς 64 είναι ιδανικοί για να ικανοποιήσουν τις δύσκολες απαιτήσεις των βιομηχανικών εφαρμογών.
+manufactor-logo: /images/demo/kiokpa/barcode/novexx.jpg
+manual-link: http://www.novexx.com/wp-content/uploads/2015/05/64-0x_A4_EN_1b.EN_.DIR_.0516.V01.pdf
+video-link: 
 ---
 
 

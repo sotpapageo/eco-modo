@@ -4,7 +4,10 @@ title: Macsa F Series Pulsed
 image: /images/demo/kiokpa/laser/F-DUO-Series.jpg
 subcategory: laser
 category: printers
-short-description: Εκτυπωτής υψηλής ανάλυσης σχεδιασμένος ειδικά για λογότυπα, barcodes, γραμμικούς κώδικες κ.α
+short-description: Εκτυπωτής υψηλής ανάλυσης σχεδιασμένος ειδικά για λογότυπα, barcodes, γραμμικούς κώδικες κ.α.
+manufactor-logo: /images/demo/kiokpa/laser/masca.jpg
+manual-link:  
+video-link: https://youtu.be/kGv9EH_tvL0
 ---
 
 

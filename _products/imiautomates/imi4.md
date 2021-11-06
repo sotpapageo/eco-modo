@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/imiautomates/flexMatic.jpg
 subcategory: imiautomates
 category: etiketezes
 short-description: Επικόλληση ετικέτας σε επίπεδα προϊόντα πάχους έως 6mm
+manufactor-logo: /images/demo/kiokpa/imiautomates/dispensal.jpg
+manual-link:  
+video-link: https://youtu.be/lepOQuiSrUs
 ---
 
 

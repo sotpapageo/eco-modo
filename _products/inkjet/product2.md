@@ -5,12 +5,14 @@ image: /images/demo/kiokpa/inkjet/JET3pi_new.jpg
 subcategory: printing-inkjet
 category:
 short-description: Εκτυπωτής ink – jetprinter με έγχρωμο μελάνι για χρήση στην σήμανση καλωδίων και σε προϊόντα με σκούρες συσκευασίες.
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  http://leibinger-group.com/fileadmin/user_upload/de/PDF/Info_TechDetails/JET3up_PI/JET3up_PI_EN.pdf
+video-link: https://youtu.be/ZZAsV0rzkzY
 ---
 
 
 
-
-    Εκτυπωτής ink – jetprinter με έγχρωμο μελάνι για χρήση στην σήμανση καλωδίων και σε προϊόντα με σκούρες συσκευασίες. Εκτύπωση ημερομηνίας λήξης/παραγωγής, lotnumber, barcode, λογότυπου
+ Εκτυπωτής ink – jetprinter με έγχρωμο μελάνι για χρήση στην σήμανση καλωδίων και σε προϊόντα με σκούρες συσκευασίες. Εκτύπωση ημερομηνίας λήξης παραγωγής, lotnumber, barcode, λογότυπου
 
 Με μοναδικό υδραυλικό σύστημα που διαθέτει ενσωματωμένο αναδευτήρα μελάνης και πλήρως αυτοποιημένη λειτουργία ανακυκλοφορίαςρισσότερες από 800 λειτουργίες λογισμικού για υψηλού επιπέδου ποιότητα και αξιοπιστία  σήμανσης των προϊόντων σας.
 

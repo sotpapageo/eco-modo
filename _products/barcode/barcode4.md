@@ -5,8 +5,10 @@ image: /images/demo/kiokpa/barcode/SATO_CL6NX_203_dpi.jpg
 subcategory: barcode
 category: printers
 short-description: Ο SATO CL 6NX είναι κατάλληλα σχεδιασμένος για βαριά βιομηχανική χρήση με απαιτητικές προδιαγραφές σε θέματα αντοχής σε ανάλογες συνθήκες.
+manufactor-logo: /images/demo/kiokpa/barcode/sato.jpg
+manual-link: https://www.xgeorgiadis.gr/media/wysiwyg/CL4NX-CL6NX_Brochure_1_1.pdf
+video-link: https://youtu.be/dirVUatBCGo
 ---
-
 
 
 

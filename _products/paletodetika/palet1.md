@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/paletodetika/goldwrap15_Elena-Marchetti.jpg
 subcategory: paletodetika
 category: industrial-automation
 short-description: Ημιαυτόματη μηχανή περιτύλιξης παλετών με ταινία stretch για σταθεροποίηση και ασφάλιση παλετοποιημένων φορτίων.
+manufactor-logo: /images/demo/kiokpa/paletodetika/elena.jpg
+manual-link:  http://www.elenamarchetti.com/files_PDF/GOLDWRAP_15_Depliant.pdf
+video-link: 
 ---
 
 

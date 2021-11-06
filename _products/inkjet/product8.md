@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/inkjet/csm_JETmotion.jpg
 subcategory: printing-inkjet
 category:
 short-description: Σύστημα μετατόπισης κεφαλών εκτύπωσης για την κωδικοποίηση σταθερής κίνησης προϊόντων. 
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  
+video-link: https://youtu.be/Sra8e8yQOpo
 ---
 
 

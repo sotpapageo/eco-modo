@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/print-check-cert/HSA_Systems_PV950F.jpg
 subcategory: print-check-cert
 category: quality_control
 short-description: Έτοιμη ολοκληρωμένη λύση (All in 1) για την εκτύπωση, αναγνώριση, επικαιροποίηση ή απόρριψη της εκτυπωμένης συσκευασίας 
+manufactor-logo: /images/demo/kiokpa/print-check-cert/hsa.jpg
+manual-link: https://www.hsasystems.com/media/7133/106-01en_hsajet_pv650c_pack_handling_unit.pdf
+video-link: 
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/barcode/NOVEXX XPL.jpg
 subcategory: barcode
 category: printers
 short-description: Το Coditherm FLAT είναι ιδανικό για εκτύπωση θερμικής μεταφοράς σε αντικείμενα με μεγάλες επίπεδες επιφάνειες.
+manufactor-logo: /images/demo/kiokpa/barcode/novexx.jpg
+manual-link: http://www.novexx.com/wp-content/uploads/2016/08/XLP-50x_A4_1d.EN_.DIR_.0717.V07.pdf
+video-link: 
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/Printess-6.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα για εκτύπωση και επικόλληση ετικέτας  πλάτους έως 180 mm.
+manufactor-logo: /images/demo/kiokpa/auto_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/printess-technicalfeatures-en.pdf
+video-link: https://youtu.be/G9Qb-3Sku3w
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/pharm_label/Altech_ALpharma_B.jpg
 subcategory: pharm_label
 category: etiketezes
 short-description: Σύστημα για εκτύπωση και επικόλληση ΕΟΦΟΣΗΜΟΥ.
+manufactor-logo: /images/demo/kiokpa/pharm_label/altech.jpg
+manual-link:  http://en.altech.it/ImagePub.aspx?id=243363
+video-link: https://youtu.be/GYsIWuUXvjE
 ---
 
 

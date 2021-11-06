@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/altech/Altech_ALritma_High performance_label_applicat
 subcategory: kefales_epikolisis
 category: etiketezes
 short-description: Ετικετέζα για ταχύτητες μέχρι 50 m/min, μικρή σε μέγεθος,προσιτή σε τιμή για εύκολη προσαρμογή σε γραμμές συσκευασίας.
+manufactor-logo: /images/demo/kiokpa/altech/altech-1.jpg
+manual-link:  http://en.altech.it/ImagePub.aspx?id=151032
+video-link: https://youtu.be/nJCjW7sQBsg
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 identifier: klistika_xartokibotion
-title: Εlena Μarchetti GOLDTAPE
+title: Εlena Μarchetti GOLDTAPE 50S
 name: Κλειστικά Χαρτοκιβωτίων 
-image: /images/demo/kiokpa/klistika_xartok/klistika1.png
+image: /images/demo/kiokpa/klistika_xartok/goldtape 50s.png
 subcategory: klistika_xartokibotion
 category: industrial-automation
-short-description: Ημιαυτόματη μηχανή περιτύλιξης παλετών με ταινία stretch για σταθεροποίηση και ασφάλιση παλετοποιημένων φορτίων.
+short-description: Ημιαυτόματο κλειστικό χαρτοκιβωτίων
+manufactor-logo: /images/demo/kiokpa/klistika_xartok/elena.jpg
+manual-link:  http://www.elenamarchetti.com/files_PDF/GOLDTAPE_50S_Depliant.pdf
+video-link: 
 ---
 
 
@@ -20,10 +23,12 @@ short-description: Ημιαυτόματη μηχανή περιτύλιξης π
 Τεχνικά Χαρακτηριστικά
 ---
 
-*    Tape width: 50 mm (2″ inch)
-*    Max diameter: 355 mm
-*    Box (H): 100 mm
-*    Lap (H1): 45 mm
-*    Box width (W): 85 mm
-*    Weight: 5,70 Kg
+*    Standard tape heads: TU2.1
+*    Electrical power supply: three-phase, 400V/50Hz
+*    Installed power: 0,18 kW
+*    Electrical protection level: IP55
+*    Service temperature: from +5°C to +35°C
+*    Productivity: 1300/1500 boxes/h
+*    Box transfer speed: 18 mt/min
+
 

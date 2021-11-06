@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/hi_resolution/premiumprintheads1_big.jpg
 subcategory: hi_resolution
 category: printers
 short-description: Εκτυπωτές υψηλής ανάλυσης ανθεκτικοί και κατάλληλοι για σκληρό βιομηχανικό περιβάλλον.
+manufactor-logo: /images/demo/kiokpa/hi_resolution/hsa.jpg
+manual-link: http://www.hsasystems.com/media/6984/212-02en_hsajet_printheads_premium_hp.pdf
+video-link: https://youtu.be/IfYZeytA-4A
 ---
 
 

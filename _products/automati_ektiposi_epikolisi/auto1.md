@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/Eidos_Printess _4_e.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα για εκτύπωση και επικόλληση ετικέτας μικρού και μεσαίου μεγέθους
+manufactor-logo: /images/demo/kiokpa/auto_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/printess-technicalfeatures-en.pdf
+video-link: https://youtu.be/CfvT6sw49dM
 ---
 
 

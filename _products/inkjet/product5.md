@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/inkjet/JET2neo.jpg
 subcategory: printing-inkjet
 category:
 short-description: Εκτυπωτής ink – jetprinter για εκτύπωση ημερομηνία λήξης/παραγωγής, lotnumber, barcode, λογότυπου.
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  http://leibinger-group.com/fileadmin/user_upload/de/PDF/Info_TechDetails/JET2neo/JET2neo_EN.pdf
+video-link: https://youtu.be/-ehOVfNrqkg
 ---
 
 

@@ -5,7 +5,10 @@ name: Μηχανήματα Επαγωγικής Ακτινοβολίας
 image: /images/demo/kiokpa/inductive_radiation/Sigma-1-neo.jpg
 subcategory: inductive_radiation
 category: industrial-automation
-short-description: Οικονομικό μηχάνημα επαγωγικής ακτινοβολίας το οποίο ενσωματώνεται εύκολα στην γραμμή παραγωγής  
+short-description: Οικονομικό μηχάνημα επαγωγικής ακτινοβολίας το οποίο ενσωματώνεται εύκολα στην γραμμή παραγωγής.
+manufactor-logo: /images/demo/kiokpa/inductive_radiation/sigmacapseal.jpg
+manual-link:  http://inductioncapsealing.com/pdf-downloads/NEO%20I.pdf
+video-link:    
 ---
 
 

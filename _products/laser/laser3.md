@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/laser/macsa_k.png
 subcategory: laser
 category: printers
 short-description: Εκτυπωτής υψηλής ανάλυσης σχεδιασμένος ειδικά για λογότυπα, barcodes, γραμμικούς κώδικες κ.α
+manufactor-logo: /images/demo/kiokpa/laser/masca.jpg
+manual-link:  
+video-link: https://youtu.be/cUy8AiEcP4U
 ---
 
 

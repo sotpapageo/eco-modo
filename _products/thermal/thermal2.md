@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/thermal_printer/Coditherm_IRoller.jpg
 subcategory: thermalprint
 category: printers
 short-description: Εκτύπωση θερμικής μεταφοράς σε κυλινδρικά προϊόντα που απαιτεί υψηλές θερμοκρασίες 
+manufactor-logo: /images/demo/kiokpa/thermal_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/coditherm-technicalfeatures-en.pdf
+video-link: https://youtu.be/xtaxuTNtZMQ
 ---
 
 

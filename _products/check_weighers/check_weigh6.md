@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/checkweigher/checkweighers-series-s.jpg
 subcategory: check_weigh
 category: quality_control
 short-description: Ελεγκτής βάρους με ταξινόμηση προϊόντος σε έως 3 κατηγορίες.
+manufactor-logo: /images/demo/kiokpa/checkweigher/nemesis.jpg
+manual-link: http://www.checkweighers.eu/download/ENG/checkweigher-s-series.pdf
+video-link: https://youtu.be/BW6qmuDVZFo
 ---
 
 
@@ -21,8 +24,8 @@ short-description: Ελεγκτής βάρους με ταξινόμηση πρ�
 
 
 
-
-|Τεχνικά Χαρακτηριστικά|
+|**Τεχνικά Χαρακτηριστικά**|
+|----------------------|
 |Scale range|     up to 600 g|
 |Division |   from 0.1 g|
 |Protection|  IP 54|

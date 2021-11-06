@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/ALcodeLT.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα εκτύπωσης και επικόλλησης ετικέτας με εκτυπωτή SATO LT 408  για μικρές παραγωγές
+manufactor-logo: /images/demo/kiokpa/auto_printer/altech.jpg
+manual-link: http://en.altech.it/ImagePub.aspx?id=146403
+video-link: https://youtu.be/5fKL-ywv14E
 ---
 
 

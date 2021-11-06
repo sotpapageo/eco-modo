@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/ALcodeP.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα εκτύπωσης και επικόλλησης ετικέτας A5 σε δύο διαδοχικές πλευρές παλετών
+manufactor-logo: /images/demo/kiokpa/auto_printer/altech.jpg
+manual-link: http://en.altech.it/ImagePub.aspx?id=242631
+video-link: https://youtu.be/mra2YfSQoss
 ---
 
 

@@ -5,7 +5,10 @@ name: Συστήματα τροφοδοσίας αυτοκόλλητων ετι�
 image: /images/demo/kiokpa/dispenser/DWR_LC-1.jpg
 subcategory: dispenser
 category: industrial-automation
-short-description: Έτοιμη ολοκληρωμένη λύση (All in 1) για την εκτύπωση, αναγνώριση, επικαιροποίηση ή απόρριψη της εκτυπωμένης συσκευασίας 
+short-description: Έτοιμη ολοκληρωμένη λύση (All in 1) για την εκτύπωση, αναγνώριση, επικαιροποίηση ή απόρριψη της εκτυπωμένης συσκευασίας.
+manufactor-logo: /images/demo/kiokpa/dispenser/widerange.jpg
+manual-link: https://www.widerange.it/depliant_pdf/DWR_DISPENSER_ITA.pdf
+video-link: https://youtu.be/-xZah_SpPHM 
 ---
 
 

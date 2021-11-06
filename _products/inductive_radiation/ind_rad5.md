@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/inductive_radiation/Sigma-3.jpg
 subcategory: inductive_radiation
 category: industrial-automation
 short-description: Mηχάνημα επαγωγικής ακτινοβολίας το οποίο ενσωματώνεται εύκολα στην γραμμή παραγωγής για καπάκια μεγέθους 20 έως 120mm 
+manufactor-logo: /images/demo/kiokpa/inductive_radiation/sigmacapseal.jpg
+manual-link:  http://inductioncapsealing.com/pdf-downloads/SIGMA%20III%20TOUCH.pdf
+video-link:
 ---
 
 

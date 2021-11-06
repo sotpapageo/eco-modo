@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/imiautomates/BM.jpg
 subcategory: imiautomates
 category: etiketezes
 short-description: Επικόλληση ετικέτας σε μπουκάλια και κυλινδρικά προϊόντα.
+manufactor-logo: /images/demo/kiokpa/imiautomates/dispensal.jpg
+manual-link:  
+video-link: https://youtu.be/tYaBJFFhRKU
 ---
 
 

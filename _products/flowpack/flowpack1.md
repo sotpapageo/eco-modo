@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/flowpack_printer/Swing_C.jpg
 subcategory: flow-pack
 category: printers
 short-description: Εκτύπωση σε συσκευαστικές μηχανές  συνεχούς λειτουργίας.
+manufactor-logo: /images/demo/kiokpa/flowpack_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/swing-technicalfeatures-en.pdf
+video-link: https://youtu.be/c2heHNn1Ivs
 ---
 
 

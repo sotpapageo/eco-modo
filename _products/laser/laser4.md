@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/laser/k-1080-uhs.jpg
 subcategory: laser
 category: printers
 short-description: Εκτυπωτής υψηλής ανάλυσης σχεδιασμένος ειδικά για λογότυπα, barcodes, γραμμικούς κώδικες κ.α
+manufactor-logo: /images/demo/kiokpa/laser/masca.jpg
+manual-link:  
+video-link: https://youtu.be/lnJbfLObvGs
 ---
 
 

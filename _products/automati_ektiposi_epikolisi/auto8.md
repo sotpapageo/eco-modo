@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/UBS_APL_3500_Series.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα για εκτύπωση και επικόλληση ετικέτας  με δυνατότητα μεταβολής της διαμέτρου του ρολού ετικετών
+manufactor-logo: /images/demo/kiokpa/auto_printer/ubs.jpg
+manual-link: http://www.ubscode.us/files/86024cad1e/p/v/apl3500n_en_letter_2017_low_web.pdf
+video-link: https://youtu.be/xUAA2Dr4PCE
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/checkweigher/Nemesis_Checkweigher_R_Series.jpg
 subcategory: check_weigh
 category: quality_control
 short-description: Ελεγκτής βάρους υψηλής ταχύτητας για ιδιαίτερα απαιτητική παραγωγή.
+manufactor-logo: /images/demo/kiokpa/checkweigher/nemesis.jpg
+manual-link: http://www.checkweighers.eu/download/ENG/checkweigher-r-series.pdf
+video-link: https://youtu.be/Kdmy3yFNJlg
 ---
 
 
@@ -19,7 +22,8 @@ short-description: Ελεγκτής βάρους υψηλής ταχύτητας
 
 
 
-|Τεχνικά Χαρακτηριστικά|
+|**Τεχνικά Χαρακτηριστικά**|
+|----------------------|
 |Scale range|     up to 6 Kg|
 |Division |   from 1 g|
 |Protection|  IP 67-IP69K|

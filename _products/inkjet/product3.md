@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/inkjet/JET3mi.jpg
 subcategory: printing-inkjet
 category:
 short-description: Εκτυπωτής ink-jetprinter  για την εκτύπωση πολύ μικρών χαρακτήρων και λογοτύπων μέχρι και 0,7mm με το ειδικό ακροφύσιο.
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  http://leibinger-group.com/fileadmin/user_upload/de/PDF/Info_TechDetails/JET3up_MI/JET3up_MI_EN.pdf
+video-link: https://youtu.be/ZZAsV0rzkzY
 ---
 
 

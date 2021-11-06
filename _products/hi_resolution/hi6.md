@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/hi_resolution/touch-controller.jpg
 subcategory: hi_resolution
 category: printers
 short-description: ΕΣυστήματα εκτύπωσης που βασίζονται στην τεχνολογία piezzo τεχνολογίας HP TIJ2.5 ή XAAR
+manufactor-logo: /images/demo/kiokpa/hi_resolution/hsa.jpg
+manual-link: https://www.hsasystems.com/media/6975/216-03en_hsajet_tipc15_premium.pdf
+video-link: https://youtu.be/VmlN-gtWhPE
 ---
 
 

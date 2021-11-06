@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/paletodetika/SW2A_WEB_LOW.jpg
 subcategory: paletodetika
 category: industrial-automation
 short-description: Ημιαυτόματη μηχανή περιτύλιξης παλετών με ταινία stretch για σταθεροποίηση και ασφάλιση παλετοποιημένων φορτίων.
+manufactor-logo: /images/demo/kiokpa/paletodetika/siat.jpg
+manual-link:  https://siat.com/wp-content/uploads/2014/05/SW2.pdf
+video-link: 
 ---
 
 

@@ -4,7 +4,10 @@ title: UBS APLINK LCX
 image: /images/demo/kiokpa/hi_resolution-pack/cabecera_bicolor.jpg
 subcategory: hi_resolution-pack
 category: printers
-short-description: Εκτυπωτής υψηλής ανάλυσης σχεδιασμένος ειδικά για λογότυπα, barcodes, γραμμικούς κώδικες κ.α
+short-description: Εκτυπωτής υψηλής ανάλυσης σχεδιασμένος ειδικά για λογότυπα, barcodes, γραμμικούς κώδικες κ.α.
+manufactor-logo: /images/demo/kiokpa/hi_resolution-pack/ubs.jpg
+manual-link: http://www.ubscode.us/files/86024cad1e/l/r/mrx_bicolor_en_letter_2017_low_web.pdf
+video-link: https://youtu.be/2TpTwKQ24zo
 ---
 
 

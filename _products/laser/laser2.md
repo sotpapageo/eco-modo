@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/laser/ICON-2.jpg
 subcategory: laser
 category: printers
 short-description: Συστήματα εκτύπωσης Laser  για την κωδικοποίηση προϊόντων με μικρούς χαρακτήρες
+manufactor-logo: /images/demo/kiokpa/laser/masca.jpg
+manual-link:  http://www.macsa.asia/download/macsa_asia/iCON_30watts_datasheet.pdf
+video-link: https://youtu.be/drEVUKpVvU8
 ---
 
 

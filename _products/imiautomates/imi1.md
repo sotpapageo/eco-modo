@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/imiautomates/dwr_round.jpg
 subcategory: imiautomates
 category: etiketezes
 short-description: Επικόλληση ετικέτας σε μπουκάλια και κυλινδρικά προϊόντα.
+manufactor-logo: /images/demo/kiokpa/imiautomates/widerange.png
+manual-link: https://www.widerange.it/depliant_pdf/DWR_ROUND_ITA.pdf
+video-link: https://youtu.be/ltaN8LGJ-qs
 ---
 
 

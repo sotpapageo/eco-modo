@@ -8,6 +8,5 @@ category: quality_control
 
 
 
-Hello mlk 1
 
 

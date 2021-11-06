@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/barcode/SATO CG4.jpg
 subcategory: barcode
 category: printers
 short-description: Εκτυπωτές μικροί  σε μέγεθος, φορητοί με  bluetooth & WLAN .
+manufactor-logo: /images/demo/kiokpa/barcode/sato.jpg
+manual-link: https://www.xgeorgiadis.gr/media/wysiwyg/Printers-CG4.pdf
+video-link: 
 ---
 
 

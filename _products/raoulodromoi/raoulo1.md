@@ -6,6 +6,9 @@ image: /images/demo/kiokpa/raoulodromoi/PACKAGING-Marchetti16.png
 subcategory: raoulodromoi
 category: industrial-automation
 short-description: Ραουλόδρομοι με μήκος από 1.150mm έως και 4.450mm
+manufactor-logo: /images/demo/kiokpa/raoulodromoi/elena.jpg
+manual-link: 
+video-link: 
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/hi_resolution/controller-unit-1.jpg
 subcategory: hi_resolution
 category: printers
 short-description: Συστήματα εκτύπωσης που βασίζονται στην τεχνολογία piezzo τεχνολογίας HP TIJ2.5 ή XAAR 
+manufactor-logo: /images/demo/kiokpa/hi_resolution/hsa.jpg
+manual-link: http://www.hsasystems.com/media/7105/209-05en_hsajet_cuf_controller_f-type_hp.pdf
+video-link: https://youtu.be/VmlN-gtWhPE
 ---
 
 

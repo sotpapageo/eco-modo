@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/thermal_printer/Coditherm_IRoller_Round.jpg
 subcategory: thermalprint
 category: printers
 short-description: Εκτύπωση σε συσκευαστικές μηχανές  συνεχούς λειτουργίας.
+manufactor-logo: /images/demo/kiokpa/thermal_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/coditherm-technicalfeatures-en.pdf
+video-link: https://youtu.be/2choaA1o2GA
 ---
 
 

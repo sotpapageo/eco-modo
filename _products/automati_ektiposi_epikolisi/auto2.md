@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/auto_printer/Printess-5.jpg
 subcategory: automates
 category: etiketezes
 short-description: Σύστημα για εκτύπωση και επικόλληση ετικέτας  με δυνατότητα μεταβολής της διαμέτρου του ρολού ετικετών
+manufactor-logo: /images/demo/kiokpa/auto_printer/eidos.jpg
+manual-link: http://eidos.eu/wp-content/uploads/2016/06/printess-technicalfeatures-en.pdf
+video-link: https://youtu.be/0c-S2M8dezA
 ---
 
 

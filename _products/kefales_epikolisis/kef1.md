@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/altech/ALstep.jpg
 subcategory: kefales_epikolisis
 category: etiketezes
 short-description: Ετικετέζα για ταχύτητες μέχρι 30 m/min, μικρή σε μέγεθος,προσιτή σε τιμή για εύκολη προσαρμογή σε γραμμές συσκευασίας.
+manufactor-logo: /images/demo/kiokpa/altech/altech-1.jpg
+manual-link:  http://en.altech.it/ImagePub.aspx?id=246942
+video-link: https://youtu.be/3acFNkFFpE4
 ---
 
 

@@ -5,6 +5,9 @@ image: /images/demo/kiokpa/inkjet/JET2neoD.jpg
 subcategory: printing-inkjet
 category:
 short-description: Εκτυπωτής ink – jetprinter ιδανικός για εφαρμογή σε περιβάλλον με πολύ μικρά σωματίδια σκόνης, όπως πριονίδι. 
+manufactor-logo: /images/demo/kiokpa/inkjet/leibinger.jpg
+manual-link:  http://leibinger-group.com/fileadmin/user_upload/de/PDF/Info_TechDetails/JET2neoD/JET2neoD_EN.pdf
+video-link: https://youtu.be/-ehOVfNrqkg
 ---
 
 
