@@ -27,3 +27,23 @@ layout: default
    </div>
 
 </section>
+
+
+<section class="single">
+
+   <div class="wrap">
+      {% if page.manufactor-logo %}
+     <h5>Kataskeyasths:</h5>
+      <img src="{{page.manufactor-logo}}">
+     {% endif %}
+  </br>
+</br>
+   {% if page.manual-link %}
+     <h5>Texniko Egxeiridio:</h5>
+     <a href="{{page.manual-link}}">
+        <img src="/images/demo/manual-icon.png">
+     </a>
+     {% endif %}
+   </div>
+
+</section>
