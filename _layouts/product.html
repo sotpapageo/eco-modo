@@ -11,9 +11,9 @@ layout: default
 
       <h1>{{ page.title }}</h1>
       <p>{{ page.subtitle }}</p>
-
+      <div class="box ">
        <img src="{{ page.image | relative_url }}"  alt="{{ page.name }}">
-
+    </div>
    </div>
 
 </section>
@@ -33,16 +33,33 @@ layout: default
 
    <div class="wrap">
       {% if page.manufactor-logo %}
-     <h5>Kataskeyasths:</h5>
-      <img src="{{page.manufactor-logo}}">
-     {% endif %}
-  </br>
+   <div class="product-details-info-wrap">
+      
+      <div calss="product-details-info-item">
+     <p>Kataskeyasths:</p>
+      </div>
+
+      <div class ="box small product-details-info-item">
+         <img src="{{page.manufactor-logo}}">
+      </div>
+
+   </div>
+    {% endif %}
+
 </br>
    {% if page.manual-link %}
-     <h5>Texniko Egxeiridio:</h5>
+
+    <div class="product-details-info-wrap">
+      <div calss="product-details-info-item">
+     <p>Texniko Egxeiridio:</p>
+      </div>
+      <div class ="box small product-details-info-item">
      <a href="{{page.manual-link}}">
         <img src="/images/demo/manual-icon.png">
      </a>
+      </div>
+   </div>
+
      {% endif %}
    </div>
 
