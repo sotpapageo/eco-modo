@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+
+<section class="intro">
+
+  <div class="wrap">
+
+    <h1>{{ page.name }}</h1>
+
+    <br>
+    <br>
+    <p>{{ page.content }}</p>
+
+  </div>
+
+</section>
+
+<section class="product-list">
+
+  <div class=" product-list-wrap">
+
+      {% for product in site.products  %}
+
+
+        {% if product.subcategory == page.subcategory %}
+
+            <div class="card product-list-item">
+
+            <a href="{{product.url}}" class="product-list-item__link" >
+
+              <img src="{{ product.image | relative_url }}"  alt="{{ product.name }}">
+
+                <div class="card-body">
+                  <h5 class="card-title">{{product.title }}</h5>
+                  <p >{{product.short-description}}</p>
+                </div>
+
+                <div class="product-list-item__content">
+                  <div class="product-list-item__info">
+                    <p class="product-list-item__title">{{ product.title }}</p>
+                  </div>
+              </div>
+
+            </a>
+
+            </div>
+
+        {%endif%}
+
+
+
+      {% endfor %}
+
+</section>

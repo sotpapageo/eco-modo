@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+
+
+
+<section class="intro">
+
+   <div class="wrap">
+
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.subtitle }}</p>
+      <div class="box ">
+       <img src="{{ page.image | relative_url }}"  alt="{{ page.name }}">
+    </div>
+   </div>
+
+</section>
+
+<section class="single">
+
+   <div class="wrap">
+
+      {{ page.content }}
+
+   </div>
+
+</section>
+
+
+<section class="single">
+
+   <div class="wrap">
+      {% if page.manufactor-logo %}
+   <div class="product-details-info-wrap">
+      
+      <div calss="product-details-info-item">
+     <p>Kataskeyasths:</p>
+      </div>
+
+      <div class ="box small product-details-info-item">
+         <img src="{{page.manufactor-logo}}">
+      </div>
+
+   </div>
+    {% endif %}
+
+</br>
+   {% if page.manual-link %}
+
+    <div class="product-details-info-wrap">
+      <div calss="product-details-info-item">
+     <p>Texniko Egxeiridio:</p>
+      </div>
+      <div class ="box small product-details-info-item">
+     <a href="{{page.manual-link}}">
+        <img src="/images/demo/manual-icon.png">
+     </a>
+      </div>
+   </div>
+
+     {% endif %}
+   </div>
+
+</section>

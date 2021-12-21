@@ -74,6 +74,4 @@ Change the number inside the 'columns' setting to create different types of gall
 </div>
 
   
- 
-
 

@@ -11,6 +11,8 @@ menu_settings:
   menu_items:
     - title: 'Υπηρεσίες'
       url: '/'
+    - title: 'Προϊόντα'
+      url: '/products'
     - title: 'Νέα-Ενημέρωση'
       url: '/blog/'
     - title: 'Η Εταιρία'
@@ -19,6 +21,7 @@ menu_settings:
       url: '/sinergates'
     - title: 'Επικοινωνία'
       url: '/contact'
+
 
 grid_settings:
   overlay_opacity: 0.8
@@ -109,21 +112,21 @@ font_settings:
     weight: 300
     letter_spacing: 0
   h1:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
-    weight: 500
+    small_size: 22
+    medium_size: 32
+    large_size: 42
+    weight: 400
     letter_spacing: -0.02
     line_height: 1.2
   h2:
-    small_size: 22
+    small_size: 20
     medium_size: 30
     large_size: 35
     weight: 500
     letter_spacing: -0.02
     line_height: 1.2
   h3:
-    small_size: 22
+    small_size: 20
     medium_size: 25
     large_size: 30
     weight: 500
@@ -144,17 +147,17 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   h6:
-    small_size: 17
+    small_size: 12
     medium_size: 20
     large_size: 20
     weight: 500
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
-    weight: 300
+    small_size: 14
+    medium_size: 16
+    large_size: 18
+    weight: 50
     letter_spacing: 0
     line_height: 1.6
   blockquote:

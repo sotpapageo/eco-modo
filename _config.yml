@@ -13,6 +13,18 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  products:
+    output: true
+    permalink: /product/:name
+  categories:
+    output: true
+    permalink: /categories/:slug
+  subcategories:
+    output: true
+    permalink: /subcategories/:slug
+  partners:
+    output: true
+    permalink: /partners/:slug
 
 defaults:
   -
@@ -39,6 +51,32 @@ defaults:
     values:
       layout: "project"
 
+  -
+    scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
+  -
+    scope:
+      path: ""
+      type: "subcategories"
+    values:
+      layout: "subcategory"
+
+  -
+    scope:
+    path: ""
+    type: "partners"
+    values:
+    layout: "partners"
+
 markdown: kramdown
 
 kramdown:
@@ -51,7 +89,13 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-youtube
+  - jekyll-maps
+
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+
+google_maps_javascript_api_key: AIzaSyBOCtA8swFa4rs8HXPq96ko4OUV8MG04QQ
   

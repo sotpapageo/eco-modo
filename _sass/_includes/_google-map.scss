@@ -1,0 +1,29 @@
+.contact-map {
+	background: $background-color;
+	height: 400px;
+	margin: 40px auto;
+	width: 100%;
+	padding: 50px;
+
+	@include mq(tabletp) {
+		margin: 30px auto;
+		padding: 40px;
+	}
+
+	@include mq(tabletl) {
+		max-width: calc(70% + 80px);
+	}
+
+	@include mq(laptop) {
+		margin: 40px auto;
+		max-width: calc(65% + 100px);
+		padding: 50px;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+
+

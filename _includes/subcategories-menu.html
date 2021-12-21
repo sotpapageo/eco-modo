@@ -1,0 +1,29 @@
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for subcategory in site.subcategories %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ subcategory.url | relative_url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ subcategory.image | relative_url }}" alt="{{ subcategory.name }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ subcategory.name }}</h2>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
